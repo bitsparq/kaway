@@ -7,6 +7,7 @@ Credits: F.Stern 2014 for multilineMAX7219.py python library
 
 # Import library
 import multilineMAX7219_2x2 as LEDMatrix
+from multilineMAX7219_2x2 import DISSOLVE, GFX_ON, GFX_OFF, GFX_INVERT
 import time
 
 # Initialise the library and the MAX7219/8x8LED arrays
