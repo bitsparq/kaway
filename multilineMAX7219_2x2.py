@@ -114,7 +114,7 @@ MATRIX_WIDTH  = 2
 MATRIX_HEIGHT = 2
 
 # Optional: It is also possible to change the default font for all the library functions:
-DEFAULT_FONT = CP437_FONT          # Note: some fonts only contain characters in chr(32)-chr(126) range
+DEFAULT_FONT = LCD_FONT         # Note: some fonts only contain characters in chr(32)-chr(126) range
 
 # ---------------------------------------------------------
 # Should not need to change anything below here
