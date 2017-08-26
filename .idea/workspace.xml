@@ -26,10 +26,10 @@
       <file leaf-file-name="kaway.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kaway.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
-                <element signature="e#197#237#0" expanded="true" />
+                <element signature="e#197#208#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -423,10 +423,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kaway.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="e#197#237#0" expanded="true" />
+            <element signature="e#197#208#0" expanded="true" />
           </folding>
         </state>
       </provider>
